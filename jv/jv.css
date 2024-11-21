@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+
+
+#divTop {
+    background-color: aquamarine; 
+    color: blue;
+    text-align: center;
+}  
+
+
+
+#divLeft {
+    background-color: yellow; 
+    color: red;
+    text-align: center;
+
+    width: 50%;
+    float: left;
+}
+
+
+
+.buttons{
+    font-size: 3em;
+    margin-bottom: 1em;
+    color: yellowgreen;
+}
+
+
+
+#divRight {
+    background-color: blue; 
+    color: violet;
+    text-align: center;
+
+    width: 50%;
+    float: right;    
+}
+
+
+
+#divFooter{
+    background-color: brown; 
+    color: white;
+    text-align: center;
+}
